@@ -36,7 +36,7 @@
 
 ## 📁 Project Structure
 
-```
+
 
 wild-guard-ai/
 ├── app.py                 # Streamlit frontend
@@ -46,7 +46,7 @@ wild-guard-ai/
 ├── .streamlit/
 │   └── secrets.toml       # Twilio credentials (excluded from Git)
 
-```
+
 
 ---
 
