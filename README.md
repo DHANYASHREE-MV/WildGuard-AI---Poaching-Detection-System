@@ -46,7 +46,7 @@ wild-guard-ai/
 ├── .streamlit/
 │   └── secrets.toml       # Twilio credentials (excluded from Git)
 
-````
+```
 
 ---
 
