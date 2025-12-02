@@ -31,6 +31,7 @@
 | Twilio API | SMS & voice call alert system |
 | OpenCV & Pillow | Image processing |
 | Python | Core logic and backend |
+| Label -studio| for training Images |
 
 ---
 
